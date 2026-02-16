@@ -2,7 +2,7 @@
 // Add this to your HTML: <script src="api.js"></script>
 
 const API_CONFIG = {
-    baseURL: 'https://nullpointerss.onrender.com',
+    baseURL: 'https://nullpointerss-1.onrender.com',
     timeout: 10000
 };
 
